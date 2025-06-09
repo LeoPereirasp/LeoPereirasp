@@ -39,9 +39,10 @@
 ### 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeoPereirasp&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoPereirasp&layout=compact&langs_count=7&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeoPereirasp&show_icons=true&theme=radical&cache_seconds=1" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoPereirasp&layout=compact&langs_count=7&theme=radical&cache_seconds=1" />
 </p>
+
 
 ---
 
